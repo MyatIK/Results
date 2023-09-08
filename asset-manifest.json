@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Results/static/css/main.98636ff3.css",
+    "main.js": "/Results/static/js/main.8944ec30.js",
+    "static/js/787.cd3f25fc.chunk.js": "/Results/static/js/787.cd3f25fc.chunk.js",
+    "static/media/HankenGrotesk-Medium.ttf": "/Results/static/media/HankenGrotesk-Medium.234bf52fb6d6a56a561d.ttf",
+    "static/media/HankenGrotesk-ExtraBold.ttf": "/Results/static/media/HankenGrotesk-ExtraBold.97e81bf3b3e87ffcef41.ttf",
+    "static/media/HankenGrotesk-Bold.ttf": "/Results/static/media/HankenGrotesk-Bold.1161826a8f452bc76b77.ttf",
+    "index.html": "/Results/index.html",
+    "main.98636ff3.css.map": "/Results/static/css/main.98636ff3.css.map",
+    "main.8944ec30.js.map": "/Results/static/js/main.8944ec30.js.map",
+    "787.cd3f25fc.chunk.js.map": "/Results/static/js/787.cd3f25fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98636ff3.css",
+    "static/js/main.8944ec30.js"
+  ]
+}
