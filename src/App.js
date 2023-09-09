@@ -19,20 +19,20 @@ function App() {
 
 
   return (
-    <div className='h-screen flex justify-center items-center drop-shadow-md'>
+    <div className='h-screen flex justify-center items-center drop-shadow-md font-primary'>
       <div className='grid grid-cols-1 xl:grid-cols-2'>
         <div className='bg-gradient-to-b from-violet-500 to-blue-700  h-100 w-60 rounded-2xl p-5  -mb-5 xl:mb-0 z-10'>
           <p className='text-center text-gray-400 mb-5'>Your Result</p>
           <div className='flex justify-center'>
             <div className='w-40 h-40 rounded-full bg-gradient-to-b from-purpleheart-800 to-darkblue-700 mb-5'>
              
-              <p className='text-center mt-10 text-5xl text-white'>{average(score)}</p>
+              <p className='text-center font-ExtraBold mt-10 text-5xl text-white'>{average(score)}</p>
               <p className='text-center text-gray-400'>of 100</p>
             </div>
 
           </div>
           
-          <p className='text-white text-center'>Great</p>
+          <p className='text-white text-center font-Bold'>Great</p>
           <p className='text-center text-gray-400 text-sm'>You scored higher than 65% of the people who have taken these tests.</p>
 
 
